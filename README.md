@@ -14,7 +14,7 @@ Consider enhancing your project with advanced CSS techniques or by exploring CSS
 2. Open index.html in your web browser to view the menu.
 
 <h1>Tech Stack</h1>
-- HTML
+- HTML <br>
 - CSS
 
 <h1>Prerequisites</h1>
