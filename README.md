@@ -23,6 +23,7 @@ Before installation, please make sure you have already installed the following t
 - Web browser (e.g., Chrome, Firefox, Edge)
 
 <h1>Preview</h1>
+
 ![Project Preview](preview.png)
 
 <h1>Project Structure</h1>
