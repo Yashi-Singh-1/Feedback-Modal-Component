@@ -42,4 +42,5 @@ Contributions are what make the open-source community such an amazing place to l
 - Open a Pull Request
 
 <h1>Resources</h1>
+
 [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
